@@ -1,11 +1,8 @@
-﻿using BCI_ASSESSET.DB;
-using BCI_ASSESSET.Models;
+﻿using BCI_ASSESSET.Models;
 using BCI_ASSESSET.Repositories;
 using BCI_ASSESSET.Requests.Projects;
-using BCI_ASSESSET.Response;
 using BCI_ASSESSET.Services;
 using Microsoft.AspNetCore.Mvc;
-using System.Collections.Generic;
 
 namespace BCI_ASSESSET.Controllers
 {
@@ -22,7 +19,6 @@ namespace BCI_ASSESSET.Controllers
         }
 
         [HttpPost()]
-        //[Authorize]
         public async Task<IActionResult> GetAll([FromBody] ProjectListRequest request)
         {
             try
@@ -40,7 +36,6 @@ namespace BCI_ASSESSET.Controllers
         }
 
         [HttpPost("get")]
-        //[Authorize]
         public async Task<IActionResult> GetById([FromBody] ProjectByIdRequest request)
         {
             try
@@ -62,7 +57,6 @@ namespace BCI_ASSESSET.Controllers
         }
 
         [HttpPost("create")]
-        //[Authorize]
         public async Task<IActionResult> Store([FromBody] CreateProjectRequest request)
         {
             try
@@ -90,7 +84,6 @@ namespace BCI_ASSESSET.Controllers
         }
 
         [HttpPost("update")]
-        //[Authorize]
         public async Task<IActionResult> Update([FromBody] UpdateProjectRequest request)
         {
             try
@@ -119,7 +112,6 @@ namespace BCI_ASSESSET.Controllers
         }
 
         [HttpPost("delete")]
-        //[Authorize]
         public async Task<IActionResult> RemoveById([FromBody] ProjectByIdRequest request)
         {
             try

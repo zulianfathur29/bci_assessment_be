@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BCI_ASSESSET")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+04c9e6184479109816b9fc073398b098c2d8d064")]
 [assembly: System.Reflection.AssemblyProductAttribute("BCI_ASSESSET")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BCI_ASSESSET")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

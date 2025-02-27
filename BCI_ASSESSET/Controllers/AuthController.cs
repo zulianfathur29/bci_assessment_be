@@ -1,10 +1,5 @@
 ﻿using BCI_ASSESSET.Services;
-using BCI_ASSESSET.Models;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.EntityFrameworkCore;
-using BCI_ASSESSET.DB;
-using System.Security.Cryptography;
-using System.Text;
 using BCI_ASSESSET.Helper;
 using BCI_ASSESSET.Response;
 using BCI_ASSESSET.Repositories;

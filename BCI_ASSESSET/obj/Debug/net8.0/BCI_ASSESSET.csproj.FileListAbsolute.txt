@@ -146,3 +146,4 @@ D:\Personal\Project\BCI\BCI_ASSESSET\BCI_ASSESSET\obj\Debug\net8.0\refint\BCI_AS
 D:\Personal\Project\BCI\BCI_ASSESSET\BCI_ASSESSET\obj\Debug\net8.0\BCI_ASSESSET.pdb
 D:\Personal\Project\BCI\BCI_ASSESSET\BCI_ASSESSET\obj\Debug\net8.0\BCI_ASSESSET.genruntimeconfig.cache
 D:\Personal\Project\BCI\BCI_ASSESSET\BCI_ASSESSET\obj\Debug\net8.0\ref\BCI_ASSESSET.dll
+D:\Personal\Project\BCI\BCI_ASSESSET\BCI_ASSESSET\obj\Debug\net8.0\BCI_ASSESSET.sourcelink.json
