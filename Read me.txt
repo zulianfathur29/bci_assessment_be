@@ -1,0 +1,3 @@
+Installation Step:
+1. Execute database.sql to PostgreSQL with database names: postgres
+2. Login with: user -> zulian and password -> Tester123$
